@@ -12,9 +12,8 @@ public class Player {
 	public int itemAp;
 	public int itemBc;
 	public int itemCollect;
-	//public Ranking ranking;
+	public Ranking ranking;
 	public boolean haveFairy = false;
-	//TODO:¿¨Æ¬ÁÐ±í
-	///public CardList cardList;
+	public CardList cardList;
 	public ArrayList<String> shouldSellIdList = new ArrayList<String>();
 }
